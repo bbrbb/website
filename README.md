@@ -70,4 +70,5 @@ Establishment of a responsive shopping mall website using Bootstrap.
   </div>
   ```
  * Use classes provided by Bootstrap to eliminate unnecessary duplication of CSS code.   
- * 
+ 
+ 
