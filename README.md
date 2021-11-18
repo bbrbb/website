@@ -11,7 +11,7 @@ Establishment of a responsive shopping mall website using Bootstrap.
 * Bootstrap
 * Media Query
 ## Advanced Feature
-* Footer development using media queries.   
+* Footer development using Media queries.   
 (Web version)    
 ![웹버전](https://user-images.githubusercontent.com/87357349/142416322-e309cb9c-9854-45ef-acfc-7e68aee7c8c5.JPG)
 
