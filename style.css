@@ -1,0 +1,147 @@
+body {
+  font-family: Helvetica, Apple SD Gothic Neo, Arial, Malgun Gothic, sans-serif;
+  color: #1d1d1d;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+h1 {
+  padding-top: 0.6em;
+  padding-bottom: 2em;
+  line-height: 1.4285714286;
+  letter-spacing: 0.00625rem;
+  font-family: "abchanel-pb-m", Arial;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 35px;
+  text-align: center;
+}
+
+h5 {
+  font-family: abchanel-corpo, sans-serif;
+  font-weight: 400;
+}
+
+h3 {
+  font-family: abchanel-corpo, sans-serif;
+  font-weight: 600;
+  letter-spacing: normal;
+}
+
+.button {
+  border-radius: 0;
+  padding: 0 1.5625rem;
+  height: 3.125rem;
+  font-size: 0.7575rem;
+  font-family: abchanel-corpo, sans-serif;
+  font-weight: 600;
+}
+
+.w-100 {
+  max-height: 614px;
+}
+
+.nav-link {
+  font-size: 0.9rem;
+  padding-right: 0.8rem;
+  padding-left: 0.8rem;
+}
+
+.topline {
+  position: relative;
+  z-index: 90;
+  border-top: 0.5rem solid #000;
+}
+
+.fontsize {
+  font-size: 14px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.first-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.first-box a {
+  text-decoration: none;
+  color: #9b9b9b;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.padding {
+  padding: 0px 14px 14px 36px;
+}
+
+.text {
+  display: flex;
+  align-items: flex-start;
+}
+
+.logo {
+  text-align: center;
+
+  font-family: "abchanel-pb-m", Arial;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 45px;
+}
+
+.col {
+  flex: 0;
+  width: 330px;
+}
+
+.navi-head {
+  font-family: abchanel-corpo, sans-serif;
+  font-weight: 600;
+  letter-spacing: normal;
+  margin-bottom: 1.125rem;
+}
+.navi-footer {
+  display: inline-block;
+  font-weight: 300;
+  color: #9b9b9b;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  font-size: 14px;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.language {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.location {
+  color: #9b9b9b;
+  display: flex;
+  justify-content: flex-start;
+  border-top: 0.05rem solid #9b9b9b;
+}
+
+@media screen and (max-width: 48rem) {
+  .media {
+    display: block;
+  }
+}
