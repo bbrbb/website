@@ -18,12 +18,17 @@ Establishment of a responsive shopping mall website using Bootstrap.
 (Mobile version)    
 ![모바일](https://user-images.githubusercontent.com/87357349/142416302-8c41145e-1141-400a-85f4-27a1884e4695.JPG)   
 ```
-@media screen and (max-width:48rem){
-    .media {
-    display:block;
+@media screen and (max-width: 48rem) {
+  .one-box {
+    font-size: 10px;
+    display: flex;
+  }
+  .two-box {
+    display: flex;
+    font-size: 12px;
+  }
+}
 
-  }
-  }
 ```
 
 
@@ -35,7 +40,7 @@ Establishment of a responsive shopping mall website using Bootstrap.
 (Mobile version)    
 ![그리드 2](https://user-images.githubusercontent.com/87357349/142416898-6d94f1fc-f64a-46f9-ae6e-2ab036ea081f.JPG)
 ```
-<div class="container  mt-5 mb-5">
+<div class="container card-box mt-5 mb-5">
     <div class="row">
 
       <div class="col-md-4 col-sm-12">
