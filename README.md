@@ -35,10 +35,10 @@ Establishment of a responsive shopping mall website using Bootstrap.
    
 * Building a responsive layout using bootstrap Grid.   
 (Web version)    
-![그리드](https://user-images.githubusercontent.com/87357349/142416866-95549c04-271b-4854-91e8-384590614937.JPG)
+![그리드](https://user-images.githubusercontent.com/87357349/142878827-f84e29cf-8d23-495a-81d2-0e5ee490db16.JPG)    
+(Mobile version)   
+![그리드 2](https://user-images.githubusercontent.com/87357349/142878850-85f0b57b-9b6d-43b0-a279-335123ffec11.JPG)    
 
-(Mobile version)    
-![그리드 2](https://user-images.githubusercontent.com/87357349/142416898-6d94f1fc-f64a-46f9-ae6e-2ab036ea081f.JPG)
 ```
 <div class="container card-box mt-5 mb-5">
     <div class="row">
