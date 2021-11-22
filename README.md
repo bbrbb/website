@@ -13,10 +13,10 @@ Establishment of a responsive shopping mall website using Bootstrap.
 ## Advanced Feature
 * Footer development using Media queries.   
 (Web version)    
-![웹버전](https://user-images.githubusercontent.com/87357349/142416322-e309cb9c-9854-45ef-acfc-7e68aee7c8c5.JPG)
+![그리드](https://user-images.githubusercontent.com/87357349/142878827-f84e29cf-8d23-495a-81d2-0e5ee490db16.JPG)    
+(Mobile version)   
+![그리드 2](https://user-images.githubusercontent.com/87357349/142878850-85f0b57b-9b6d-43b0-a279-335123ffec11.JPG)    
 
-(Mobile version)    
-![모바일](https://user-images.githubusercontent.com/87357349/142416302-8c41145e-1141-400a-85f4-27a1884e4695.JPG)   
 ```
 @media screen and (max-width: 48rem) {
   .one-box {
