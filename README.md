@@ -4,9 +4,9 @@ Bootstrapを用いた反応型ウェブサイトを構築。
 ![preview1](https://user-images.githubusercontent.com/87357349/142412421-a22fa89a-54fb-4f39-a69f-40f0f7591de1.jpg)
 * DEMO : https://new-chanel.boribori3.repl.co
 ## Development goal.
-1. Use of various components and classes of Bootstrap and understanding of Bootstrap Grid.     
-  Bootstrapの様々なコンポーネントとクラス使用、およびBootstrap Gridを理解する。
-2. Building a responsive web page using Media query.
+1. Use of various components and classes of Bootstrap and understanding of Bootstrap Grid.       
+  Bootstrapの様々なコンポーネントとクラス使用、およびBootstrap Gridを理解する。    
+2. Building a responsive web page using Media query.    
     メディアクォーリーを利用した反応型ウェブページを構築
 ## Technology of use 使用技術
 * HTML
@@ -38,7 +38,7 @@ Bootstrapを用いた反応型ウェブサイトを構築。
 
    
 * Building a responsive layout using bootstrap Grid.       
- Bootstrap Gridを用いた反応型レイアウトの構築
+ Bootstrap Gridを用いた反応型レイアウトの構築    
 (Web version)    
 ![웹버전](https://user-images.githubusercontent.com/87357349/142879505-c073b10b-cac3-47bd-82c0-78d06de14601.JPG)
 (Mobile version)    
