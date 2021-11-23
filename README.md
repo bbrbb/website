@@ -5,7 +5,7 @@ Bootstrapを用いた反応型ウェブサイトを構築。
 ## Development goal.
 1. Bootstrapの様々なコンポーネントとクラス使用、およびBootstrap Gridを理解する。    
 2. Media queryを利用した反応型ウェブページを構築
-## Technology of use 使用技術
+## Technology of use     
 * HTML
 * CSS
 * Bootstrap
